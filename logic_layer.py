@@ -1,5 +1,5 @@
 """
-Gets data.
+This module gets data and returns a list object.
 """
 
 

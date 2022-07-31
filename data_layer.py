@@ -1,5 +1,5 @@
 """
-Gets data
+This module reads data and returns it.
 """
 
 

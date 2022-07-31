@@ -1,5 +1,5 @@
 """
-Validates user input.
+This module contains functions that validate user input.
 """
 
 
@@ -16,6 +16,6 @@ def abc(user_answer):
 def y_n(answer):
     while True:
         if answer.upper() == "Y" or answer.upper() == "N":
-            return answer
+            return answer.upper()
         else:
             answer = input("Please answer \"Y\" or \"N\": ")
