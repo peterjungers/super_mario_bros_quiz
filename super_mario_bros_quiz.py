@@ -1,7 +1,7 @@
 # ****************************************************************************
 # Author:           Peter Jungers
 # Program name:     Super Mario Bros. quiz
-# Version:	        1.0
+# Version:          1.0
 # Date:             July 2022
 # Description:      A quiz about Super Mario Bros. games
 # Main module:      super_mario_bros_quiz.py
